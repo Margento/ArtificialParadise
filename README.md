@@ -1,5 +1,5 @@
 # ArtificialParadise
-#GraphPoem ; LLM Poetics ; MultiDiGraph ; NLP ; MARGENTO &amp; Jerome &amp; Diane Rothenberg ; Creative AI ; Network Walks Poetry ; Poetry of Place and Quantum Non-locality
+#GraphPoem ; #LLMPoetics ; MultiDiGraph ; NLP ; #NLPPoetry ; MARGENTO &amp; Jerome &amp; Diane Rothenberg ; #CreativeAI ; #NetworkWalksPoetry ; Poetry of Place and Quantum Non-locality
 
 The code & data for the poem
 
