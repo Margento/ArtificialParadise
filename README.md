@@ -9,6 +9,8 @@ by MARGENTO
 
 In memoriam Jerome Rothenberg
 
+(forthcoming as poetry pubication; stay tuned)
+
 
 Run the notebboks in this order:
 
